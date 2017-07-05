@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1499257704 source:/home/mhcrnl/Documents/CQueueF050717/controler.c
+	"controler.h"
+
+1499257710 /home/mhcrnl/Documents/CQueueF050717/controler.h
+	"queue.h"
+
+1499258634 /home/mhcrnl/Documents/CQueueF050717/queue.h
+	<stdio.h>
+	<stdlib.h>
+
+1499258481 source:/home/mhcrnl/Documents/CQueueF050717/main.c
+	<stdio.h>
+	<stdlib.h>
+	"controler.h"
+
+1499258635 source:/home/mhcrnl/Documents/CQueueF050717/queue.c
+	"queue.h"
+
