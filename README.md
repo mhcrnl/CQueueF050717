@@ -64,6 +64,10 @@ A short description of the motivation behind the creation and maintenance of the
 ## Installation
 
 Provide code examples and explanations of how to get the project.
+```
+git clone https://github.com/mhcrnl/CQueueF050717
+```
+Code::Blocks 16.01
 
 ## API Reference
 
